@@ -28,8 +28,8 @@ char* ssid = "dch";
 char* password = "xd123456";
 
 // Configuracion del Bot de Telegram
-String token = "6207934903:AAFG7LUHSymR2YDVgTYVQa2FNZ2tY94VfZc";
-const int64_t telegramId = 803120820;
+String token = "";
+const int64_t telegramId = 123456789;
 
 // Configuraciones de los pines de los sensores
 #define DHTPIN 14
